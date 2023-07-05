@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://i.ibb.co/41ZDcc4/Beige-Simple-Elegant-Personal-Linked-In-Banner.gif" alt="banner" />
 
 <!--
 **shuvoslashn/shuvoslashn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
